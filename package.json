@@ -1,0 +1,23 @@
+{
+  "name": "pathfs",
+  "version": "1.0.0",
+  "description": "application to research file path",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bebo84/pathfs.git"
+  },
+  "keywords": [
+    "path",
+    "fs"
+  ],
+  "author": "tran phuong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bebo84/pathfs/issues"
+  },
+  "homepage": "https://github.com/bebo84/pathfs#readme"
+}
